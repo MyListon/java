@@ -100,6 +100,6 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 ##  Contato
 
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Myriam**](https://github.com/MyListon)
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
 
