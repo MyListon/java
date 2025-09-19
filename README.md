@@ -37,13 +37,13 @@ Você encontrará conteúdos que abrangem desde os fundamentos da linguagem Java
 
 | Aula    | Tema                   | Acesso                                                       | Descrição                                             |
 | ------- | ---------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
-| Aula 01 | Introdução ao Java     | [Abrir]() | Primeiros passos, estrutura básica e saída de dados   |
-| Aula 02 | Variáveis e Operadores | [Abrir]() | Variáveis, constantes, `Scanner`, operadores diversos |
-| Aula 03 | Condicionais e Lógicos | [Abrir]() | `if/else`, `switch`, operadores relacionais e lógicos |
-| Aula 04 | Laços de Repetição     | [Abrir]() | Estruturas `for`, `while` e `do-while`                |
-| Aula 05 | Arrays                 | [Abrir]() | Vetores e matrizes                                    |
-| Aula 06 | Collections (Parte 1)  | [Abrir]() | Trabalhando com `ArrayList` e `Set`                   |
-| Aula 07 | Collections (Parte 2)  | [Abrir]() | Uso de `Queue` e `Stack`                              |
+| Aula 01 | Introdução ao Java     | [Abrir](https://github.com/MyListon/java/tree/main/helloworld) | Primeiros passos, estrutura básica e saída de dados   |
+| Aula 02 | Variáveis e Operadores | [Abrir](https://github.com/MyListon/java/tree/main/operadores) | Variáveis, constantes, `Scanner`, operadores diversos |
+| Aula 03 | Condicionais e Lógicos | [Abrir](https://github.com/MyListon/java/tree/main/condicionais) | `if/else`, `switch`, operadores relacionais e lógicos |
+| Aula 04 | Laços de Repetição     | [Abrir](https://github.com/MyListon/java/tree/main/repeticoes) | Estruturas `for`, `while` e `do-while`                |
+| Aula 05 | Arrays                 | [Abrir](https://github.com/MyListon/java/tree/main/vetores) | Vetores e matrizes                                    |
+| Aula 06 | Collections (Parte 1)  | [Abrir](https://github.com/MyListon/java/tree/main/colecoes) | Trabalhando com `ArrayList` e `Set`                   |
+| Aula 07 | Collections (Parte 2)  | [Abrir](https://github.com/MyListon/java/tree/main/colecoes) | Uso de `Queue` e `Stack`                              |
 | Aula 08 | Métodos                | [Abrir]() | Criação de métodos com e sem retorno                  |
 
 <br />
